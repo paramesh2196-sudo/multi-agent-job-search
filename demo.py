@@ -167,9 +167,9 @@ IMMEDIATE ACTION ITEMS (THIS WEEK)
 
 
 def simulate_agent(agent_num: int, agent_name: str, delay: float = 1.5):
-    print(f"\n{'─'*60}")
+    print(f"\n{'-'*60}")
     print(f"  AGENT {agent_num}: {agent_name}")
-    print(f"{'─'*60}")
+    print(f"{'-'*60}")
     steps = ["Initializing...", "Processing inputs...", "Generating output...", "Complete ✓"]
     for step in steps:
         print(f"  [{agent_num}/{3}] {step}")
