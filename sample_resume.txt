@@ -1,0 +1,25 @@
+John Doe
+Email: johndoe@email.com | Phone: +1-555-0100
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+EDUCATION
+B.Tech in Computer Science | XYZ University | 2020-2024 | GPA: 7.8/10
+
+SKILLS
+Programming: Python, Java, C++
+Web: HTML, CSS, JavaScript, React (basic)
+Databases: MySQL
+Tools: Git
+
+PROJECTS
+Student Management System
+- Built a web app using Python and MySQL
+- Created forms and basic CRUD operations
+
+EXPERIENCE
+Internship at ABC Company (2 months)
+- Helped in testing software
+- Wrote some Python scripts
+
+CERTIFICATIONS
+- Python Basics - Coursera
